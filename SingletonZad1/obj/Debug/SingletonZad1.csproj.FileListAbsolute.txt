@@ -1,0 +1,11 @@
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\bin\Debug\SingletonZad1.exe.config
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\bin\Debug\SingletonZad1.exe
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\bin\Debug\SingletonZad1.pdb
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.csprojAssemblyReference.cache
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.csproj.CoreCompileInputs.cache
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.exe
+C:\Users\Magda\Desktop\programmer\Sprint2\Wzorce projektowe\zadania domowe\Singletone\Singleton1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.pdb
+C:\Users\Admin\Desktop\SingletonZad1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SingletonZad1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SingletonZad1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.exe
+C:\Users\Admin\Desktop\SingletonZad1\SingletonZad1\SingletonZad1\obj\Debug\SingletonZad1.pdb
